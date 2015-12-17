@@ -3,3 +3,5 @@ redis BAse de datos//Base de datos no sql
 jenkins Servidor //Integracion continua
 
 gitHub y Git 
+
+Y revisar a fondo dichas herramientas
